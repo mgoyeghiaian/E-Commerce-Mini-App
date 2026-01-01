@@ -2,190 +2,137 @@
   "Shoes": [
     {
       "id": "shoe-001",
-      "title": "Running Sneakers",
-      "price": 45,
-      "image": "/products/shoes/shoe-001.jpg",
-      "description": "Lightweight running sneakers for daily training."
+      "gender": "Men",
+      "title": "Stylish Khaki High-Top Martin Boots for Men ",
+      "price": 121,
+      "image": "/products/shoes/O1CN0159fH3V2DSyjmQ9J7a_2471638609-0-cib.webp",
+      "description": "Stylish Khaki High-Top Martin Boots for Men – Breathable Suede Leather with Anti-Slip Sole – Perfect for Casual Spring and Summer Outings"
     },
     {
       "id": "shoe-002",
-      "title": "Leather Casual Shoes",
-      "price": 85,
-      "image": "/products/shoes/shoe-002.jpg",
-      "description": "Classic leather shoes suitable for casual wear."
+      "title": "Men's Yellow High-Top Leather Martin Boots with Fleece Lining", 
+       "gender": "Men",
+      "price": 245,
+      "image": "/products/shoes/21103149132_17629435.webp",
+      "description": "Men's Yellow High-Top Leather Martin Boots with Fleece Lining – Stylish Elevated Work Footwear for Casual and Outdoor Adventures"
     },
     {
       "id": "shoe-003",
-      "title": "High-Top Trainers",
-      "price": 110,
-      "image": "/products/shoes/shoe-003.jpg",
-      "description": "High-top trainers with added ankle support."
+      "title": "Trendy Red Sports Shoes with Waterproof Fur",
+        "gender": "Women",
+
+      "price": 102,
+      "image": "/products/shoes/22746047075_661546604.webp",
+      "description": "Trendy Red Sports Shoes with Waterproof Fur Upper and Anti-Slip Rubber Sole for All-Season Daily Wear"
     },
     {
       "id": "shoe-004",
-      "title": "Trail Hiking Boots",
-      "price": 140,
-      "image": "/products/shoes/shoe-004.jpg",
-      "description": "Durable boots designed for outdoor trails."
+      "title": "Stylish Brown Open-Toe Slippers for Women",        "gender": "Women",
+
+      "price": 128,
+      "image": "/products/shoes/O1CN01bdsNVq2DMZB0SUplU_3707858595-0-cib.webp",
+      "description": "Stylish Brown Open-Toe Slippers for Women – Soft Faux Fur & Non-Slip Rubber Sole for Casual Comfort"
     },
     {
       "id": "shoe-005",
-      "title": "Slip-On Loafers",
-      "price": 60,
-      "image": "/products/shoes/shoe-005.jpg",
-      "description": "Comfortable slip-on loafers for everyday use."
+      "title": "Stylish Brown PU Women's Sandals with Toggle Toe Design",        "gender": "Women",
+
+      "price": 137,
+      "image": "/products/shoes/11301287179_1354866218.webp",
+      "description": "Stylish Brown PU Women's Sandals with Toggle Toe Design Lightweight Wedge Heels for Daily Comfort and Summer Activities"
     }
   ],
 
   "Shirts": [
     {
       "id": "shirt-001",
-      "title": "Basic Cotton T-Shirt",
-      "price": 25,
-      "image": "/products/shirts/shirt-001.jpg",
-      "description": "Soft cotton t-shirt with a regular fit."
+      "title": "Trendy Khaki Black Casual T-Shirt",
+      "price": 139,       "gender": "Men",
+
+      "image": "/products/shirts/O1CN01jTjLN21qGOdpDi5nm_3324675468.webp",
+      "description": "Trendy Khaki Black Casual Short-Sleeved Cotton T-Shirt for Men - Summer Fashion with Letter Print Design Perfect for Leisure Outings"
     },
     {
       "id": "shirt-002",
-      "title": "Slim Fit Polo Shirt",
-      "price": 45,
-      "image": "/products/shirts/shirt-002.jpg",
-      "description": "Slim fit polo suitable for smart casual outfits."
+      "title": "Summer Retro Heavy-Duty Short-Sleeved Cotton T-Shirt",
+      "price": 132,       "gender": "Men",
+
+      "image": "/products/shirts/O1CN019fIstR2ANzIYZO8Cp_2212928978192-0-cib.webp",
+      "description": "Summer Retro Heavy-Duty Short-Sleeved Cotton T-Shirt for Men in White Grey and Black Perfect for Casual Outings and Everyday Comfort"
     },
     {
       "id": "shirt-003",
-      "title": "Linen Summer Shirt",
-      "price": 70,
-      "image": "/products/shirts/shirt-003.jpg",
-      "description": "Breathable linen shirt for warm weather."
+      "title": "Trendy Casual Loose Short-Sleeved Cotton T-Shirt",
+      "price": 162,       "gender": "Men",
+
+      "image": "/products/shirts/O1CN01aQ3W2W2CjB9dozpnW_4611686018427386349-0-item_pic.webp",
+      "description": "Trendy Casual Loose Short-Sleeved Cotton T-Shirt for Men in Anchor Red - Perfect for Summer Leisure and Everyday Wear"
     },
     {
       "id": "shirt-004",
-      "title": "Denim Button-Up Shirt",
-      "price": 90,
-      "image": "/products/shirts/shirt-004.jpg",
-      "description": "Classic denim shirt with button-up front."
+      "title": "Trendy Summer Short-Sleeved Polo Shirt",
+      "price": 148,       "gender": "Men",
+
+      "image": "/products/shirts/O1CN01YfvIKq1hou1cZllG3_4611686018427386373-0-item_pic.webp",
+      "description": "Trendy Summer Short-Sleeved Polo Shirt for Men - Loose Fit Lightweight Cotton Asymmetrical Design Available in Black and Camel for Casual Outings"
     },
     {
       "id": "shirt-005",
-      "title": "Formal White Shirt",
-      "price": 120,
-      "image": "/products/shirts/shirt-005.jpg",
-      "description": "Formal white shirt suitable for office wear."
+      "title": "Stylish Blue and White Striped Long-SleevedLapel Shirt",
+      "price": 252,       "gender": "Men",
+
+      "image": "/products/shirts/O1CN01FDCe6929CFqN85e5G_2215020858031-0-cib.webp",
+      "description": "Stylish Blue and White Striped Long-Sleeved Men's Lapel Shirt Jacket - Perfect for Spring and Summer Casual Commuting"
     }
   ],
-
-  "Electronics": [
-    {
-      "id": "electronic-001",
-      "title": "Wireless Headphones",
-      "price": 55,
-      "image": "/products/electronics/electronic-001.jpg",
-      "description": "Wireless headphones with noise isolation."
-    },
-    {
-      "id": "electronic-002",
-      "title": "Bluetooth Speaker",
-      "price": 80,
-      "image": "/products/electronics/electronic-002.jpg",
-      "description": "Portable Bluetooth speaker with deep bass."
-    },
-    {
-      "id": "electronic-003",
-      "title": "Smartwatch",
-      "price": 150,
-      "image": "/products/electronics/electronic-003.jpg",
-      "description": "Smartwatch with fitness tracking features."
-    },
-    {
-      "id": "electronic-004",
-      "title": "Wireless Mouse",
-      "price": 35,
-      "image": "/products/electronics/electronic-004.jpg",
-      "description": "Ergonomic wireless mouse for daily use."
-    },
-    {
-      "id": "electronic-005",
-      "title": "Mechanical Keyboard",
-      "price": 130,
-      "image": "/products/electronics/electronic-005.jpg",
-      "description": "Mechanical keyboard with tactile switches."
-    }
-  ],
-
   "Accessories": [
     {
       "id": "accessory-001",
-      "title": "Leather Wallet",
-      "price": 40,
-      "image": "/products/accessories/accessory-001.jpg",
-      "description": "Genuine leather wallet with multiple slots."
+      "title": "Unisex Geometric Metal Playing Cards Ring",
+      "price": 17,        "gender": "Teen",
+
+      "image": "/products/accessories/O1CN01kTB8mt1FHBL37GPq1_4080940461-0-cib.webp",
+      "description": "Unisex Geometric Metal Playing Cards Ring - Retro Dripping Oil Design for Summer Parties."
     },
     {
       "id": "accessory-002",
-      "title": "Classic Wrist Watch",
-      "price": 95,
-      "image": "/products/accessories/accessory-002.jpg",
-      "description": "Analog wrist watch with metal strap."
+      "title": "Stylish Rimless Purple Lens Sunglasses for Women",
+      "price": 48,        "gender": "Women",
+
+      "image": "/products/accessories/O1CN01smfFpq1Z02opTbYWI_2209069543131-0-cib.webp",
+      "description": "Stylish Rimless Purple Lens Sunglasses for Women - UV400 Metal Frame for Outdoor Activities, Fashionable Driving, and Summer Fun"
     },
     {
       "id": "accessory-003",
-      "title": "Sunglasses",
-      "price": 65,
-      "image": "/products/accessories/accessory-003.jpg",
-      "description": "UV-protected sunglasses with modern design."
+      "title": "Charming Heart-Shaped Micro Diamond Necklace for Women",
+      "price": 14,        "gender": "Women",
+
+      "image": "/products/accessories/O1CN0161fLdD1FHBbZcYTZE_4080940461-0-cib.webp",
+      "description": "Charming Heart-Shaped Micro Diamond Necklace for Women - Personalized Korean Style with Twist Chain for Casual Elegance"
     },
     {
       "id": "accessory-004",
-      "title": "Canvas Backpack",
-      "price": 110,
-      "image": "/products/accessories/accessory-004.jpg",
-      "description": "Durable backpack for daily commuting."
+      "title": "Waterproof Laser Face Tattoo Sticker for Carnival Parties - Stylish Geometric Design for Festive Occasions",
+      "price": 14,        "gender": "Teen",
+
+      "image": "/products/accessories/O1CN01GScJYW1cr7nJQgO3k_2207569153653-0-cib.webp",
+      "description": "Waterproof Laser Face Tattoo Sticker for Carnival Parties - Stylish Geometric Design for Festive Occasions"
     },
     {
       "id": "accessory-005",
-      "title": "Leather Belt",
-      "price": 30,
-      "image": "/products/accessories/accessory-005.jpg",
-      "description": "Classic leather belt with metal buckle."
-    }
-  ],
+      "title": "Pink Children's Game Watch",
+      "price": 152,        "gender": "Kids",
 
-  "Home": [
-    {
-      "id": "home-001",
-      "title": "Ceramic Coffee Mug",
-      "price": 15,
-      "image": "/products/home/home-001.jpg",
-      "description": "Ceramic mug suitable for hot beverages."
+      "image": "/products/accessories/O1CN01XZ0JnT26pEdGjQHOq_959037710-0-cib.webp",
+      "description": "1.54-Inch Pink Children's Game Watch - Double Camera, Puzzle Games, Touch Screen, Perfect for Playtime and Learning"
     },
-    {
-      "id": "home-002",
-      "title": "Desk Lamp",
-      "price": 50,
-      "image": "/products/home/home-002.jpg",
-      "description": "Adjustable desk lamp with warm lighting."
-    },
-    {
-      "id": "home-003",
-      "title": "Decorative Wall Clock",
-      "price": 75,
-      "image": "/products/home/home-003.jpg",
-      "description": "Minimal wall clock for modern interiors."
-    },
-    {
-      "id": "home-004",
-      "title": "Indoor Plant Pot",
-      "price": 35,
-      "image": "/products/home/home-004.jpg",
-      "description": "Decorative pot for indoor plants."
-    },
-    {
-      "id": "home-005",
-      "title": "Throw Pillow",
-      "price": 55,
-      "image": "/products/home/home-005.jpg",
-      "description": "Soft throw pillow for sofas and beds."
+     {
+      "id": "accessory-006",
+      "title": "Men's Casual Sports Watch",
+      "price": 192,        "gender": "Men",
+
+      "image": "/products/accessories/O1CN014jR6Yq1EoKUlp0vzq_2999900398-0-cib.webp",
+      "description": "Men's Casual Sports Watch - Black Silicone Strap, Luminous Barrel Design, Waterproof Quartz Timepiece Perfect for Summer Adventures"
     }
   ]
 }

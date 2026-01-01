@@ -1,20 +1,30 @@
 import raw from "@/data/products.json";
-import { Category, Product } from "@/types/product";
+import type { Product, Gender } from "@/types/product";
 
-type ProductWithoutCategory = Omit<Product, "category">;
-type ProductsByCategory = Record<Category, ProductWithoutCategory[]>;
+type RawProduct = Omit<Product, "category" | "gender"> & {
+  gender?: string;
+};
 
-const productsData = raw as ProductsByCategory;
+function isGender(val: unknown): val is Gender {
+  return (
+    val === "Men" ||
+    val === "Women" ||
+    val === "Kids" ||
+    val === "Teen" ||
+    val === "Unisex"
+  );
+}
 
 export function getProducts(): Product[] {
+  const data = raw as Record<string, RawProduct[]>;
   const out: Product[] = [];
 
-  (Object.keys(productsData) as Category[]).forEach((category) => {
-    const items = productsData[category] ?? [];
+  Object.entries(data).forEach(([category, items]) => {
     items.forEach((item) => {
       out.push({
         ...item,
-        category,
+        category, 
+        gender: isGender(item.gender) ? item.gender : "Unisex",
       });
     });
   });
@@ -24,4 +34,8 @@ export function getProducts(): Product[] {
 
 export function getProductById(id: string): Product | undefined {
   return getProducts().find((p) => p.id === id);
+}
+
+export function getCategories(): string[] {
+  return Object.keys(raw);
 }

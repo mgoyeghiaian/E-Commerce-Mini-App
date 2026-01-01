@@ -1,11 +1,10 @@
-import { getProducts } from "@/lib/products";
+import { getProducts, getCategories } from "@/lib/products";
 import FiltersBar from "@/components/filters/FiltersBar";
-import { Category } from "@/types/product";
 
-const CATEGORIES: Category[] = ["Shoes", "Shirts", "Electronics", "Accessories", "Home"];
 
 export default function HomePage() {
   const products = getProducts();
+  const categories = getCategories();
 
   return (
     <main className="space-y-8">
@@ -14,7 +13,7 @@ export default function HomePage() {
         <p className="text-sm text-gray-500">Filter by category, price, or search.</p>
       </div>
 
-      <FiltersBar products={products} categories={CATEGORIES} />
+      <FiltersBar products={products} categories={categories} />
     </main>
   );
 }
