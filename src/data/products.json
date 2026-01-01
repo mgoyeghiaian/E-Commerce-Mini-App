@@ -1,0 +1,191 @@
+{
+  "Shoes": [
+    {
+      "id": "shoe-001",
+      "title": "Running Sneakers",
+      "price": 45,
+      "image": "/products/shoes/shoe-001.jpg",
+      "description": "Lightweight running sneakers for daily training."
+    },
+    {
+      "id": "shoe-002",
+      "title": "Leather Casual Shoes",
+      "price": 85,
+      "image": "/products/shoes/shoe-002.jpg",
+      "description": "Classic leather shoes suitable for casual wear."
+    },
+    {
+      "id": "shoe-003",
+      "title": "High-Top Trainers",
+      "price": 110,
+      "image": "/products/shoes/shoe-003.jpg",
+      "description": "High-top trainers with added ankle support."
+    },
+    {
+      "id": "shoe-004",
+      "title": "Trail Hiking Boots",
+      "price": 140,
+      "image": "/products/shoes/shoe-004.jpg",
+      "description": "Durable boots designed for outdoor trails."
+    },
+    {
+      "id": "shoe-005",
+      "title": "Slip-On Loafers",
+      "price": 60,
+      "image": "/products/shoes/shoe-005.jpg",
+      "description": "Comfortable slip-on loafers for everyday use."
+    }
+  ],
+
+  "Shirts": [
+    {
+      "id": "shirt-001",
+      "title": "Basic Cotton T-Shirt",
+      "price": 25,
+      "image": "/products/shirts/shirt-001.jpg",
+      "description": "Soft cotton t-shirt with a regular fit."
+    },
+    {
+      "id": "shirt-002",
+      "title": "Slim Fit Polo Shirt",
+      "price": 45,
+      "image": "/products/shirts/shirt-002.jpg",
+      "description": "Slim fit polo suitable for smart casual outfits."
+    },
+    {
+      "id": "shirt-003",
+      "title": "Linen Summer Shirt",
+      "price": 70,
+      "image": "/products/shirts/shirt-003.jpg",
+      "description": "Breathable linen shirt for warm weather."
+    },
+    {
+      "id": "shirt-004",
+      "title": "Denim Button-Up Shirt",
+      "price": 90,
+      "image": "/products/shirts/shirt-004.jpg",
+      "description": "Classic denim shirt with button-up front."
+    },
+    {
+      "id": "shirt-005",
+      "title": "Formal White Shirt",
+      "price": 120,
+      "image": "/products/shirts/shirt-005.jpg",
+      "description": "Formal white shirt suitable for office wear."
+    }
+  ],
+
+  "Electronics": [
+    {
+      "id": "electronic-001",
+      "title": "Wireless Headphones",
+      "price": 55,
+      "image": "/products/electronics/electronic-001.jpg",
+      "description": "Wireless headphones with noise isolation."
+    },
+    {
+      "id": "electronic-002",
+      "title": "Bluetooth Speaker",
+      "price": 80,
+      "image": "/products/electronics/electronic-002.jpg",
+      "description": "Portable Bluetooth speaker with deep bass."
+    },
+    {
+      "id": "electronic-003",
+      "title": "Smartwatch",
+      "price": 150,
+      "image": "/products/electronics/electronic-003.jpg",
+      "description": "Smartwatch with fitness tracking features."
+    },
+    {
+      "id": "electronic-004",
+      "title": "Wireless Mouse",
+      "price": 35,
+      "image": "/products/electronics/electronic-004.jpg",
+      "description": "Ergonomic wireless mouse for daily use."
+    },
+    {
+      "id": "electronic-005",
+      "title": "Mechanical Keyboard",
+      "price": 130,
+      "image": "/products/electronics/electronic-005.jpg",
+      "description": "Mechanical keyboard with tactile switches."
+    }
+  ],
+
+  "Accessories": [
+    {
+      "id": "accessory-001",
+      "title": "Leather Wallet",
+      "price": 40,
+      "image": "/products/accessories/accessory-001.jpg",
+      "description": "Genuine leather wallet with multiple slots."
+    },
+    {
+      "id": "accessory-002",
+      "title": "Classic Wrist Watch",
+      "price": 95,
+      "image": "/products/accessories/accessory-002.jpg",
+      "description": "Analog wrist watch with metal strap."
+    },
+    {
+      "id": "accessory-003",
+      "title": "Sunglasses",
+      "price": 65,
+      "image": "/products/accessories/accessory-003.jpg",
+      "description": "UV-protected sunglasses with modern design."
+    },
+    {
+      "id": "accessory-004",
+      "title": "Canvas Backpack",
+      "price": 110,
+      "image": "/products/accessories/accessory-004.jpg",
+      "description": "Durable backpack for daily commuting."
+    },
+    {
+      "id": "accessory-005",
+      "title": "Leather Belt",
+      "price": 30,
+      "image": "/products/accessories/accessory-005.jpg",
+      "description": "Classic leather belt with metal buckle."
+    }
+  ],
+
+  "Home": [
+    {
+      "id": "home-001",
+      "title": "Ceramic Coffee Mug",
+      "price": 15,
+      "image": "/products/home/home-001.jpg",
+      "description": "Ceramic mug suitable for hot beverages."
+    },
+    {
+      "id": "home-002",
+      "title": "Desk Lamp",
+      "price": 50,
+      "image": "/products/home/home-002.jpg",
+      "description": "Adjustable desk lamp with warm lighting."
+    },
+    {
+      "id": "home-003",
+      "title": "Decorative Wall Clock",
+      "price": 75,
+      "image": "/products/home/home-003.jpg",
+      "description": "Minimal wall clock for modern interiors."
+    },
+    {
+      "id": "home-004",
+      "title": "Indoor Plant Pot",
+      "price": 35,
+      "image": "/products/home/home-004.jpg",
+      "description": "Decorative pot for indoor plants."
+    },
+    {
+      "id": "home-005",
+      "title": "Throw Pillow",
+      "price": 55,
+      "image": "/products/home/home-005.jpg",
+      "description": "Soft throw pillow for sofas and beds."
+    }
+  ]
+}
