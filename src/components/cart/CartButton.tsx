@@ -13,7 +13,7 @@ export default function CartButton() {
     >
       Cart
       {count > 0 && (
-        <span className="ml-2 inline-flex h-5 min-w-[20px] items-center justify-center rounded-full bg-gray-900 px-2 text-xs text-white">
+        <span className="ml-2 inline-flex h-5 min-w-5 items-center justify-center rounded-full bg-gray-900 px-2 text-xs text-white">
           {count}
         </span>
       )}
